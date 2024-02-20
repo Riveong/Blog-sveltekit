@@ -1,25 +1,11 @@
 {
 "data":[
     {
-        "title":"How-to-HTML",
-        "desc":"How to do basic HTML?",
-        "content":"Halo teman - teman selamat datang pada perkuliahan pemrograman berbasis platform! q(≧▽≦q).<br>Harusnya kalau teman - teman pada kelas teori mengikuti perkuliahan maka sudah paham dengan konsep dasar HTML. Namun kalau belum paham jangan khawatir kita bakal ulas bersama!<br>pada umumnya struktur HTML kita mempunyai <b>html, head, dan body</b> sintaks yang digunakan berupa nested tag. <br><br>Contoh:<br><h4><body></h4><img src='https://media.discordapp.net/attachments/1023598916857499680/1209492185821610014/image.png?ex=65e71e60&is=65d4a960&hm=4316ce9d0bd8eefc1420d50a04718b2d70fd9578a3b72b419665786374348ece&=&format=webp&quality=lossless&width=83&height=30'> pada contoh di samping kita mendefinisikan elemen head yang dihimpit oleh tag <>. Cukup simple bukan? nah untuk menutup tagnya sendiri kita dapat menggunakan <img src='https://media.discordapp.net/attachments/1023598916857499680/1209493477302210640/image.png?ex=65e71f94&is=65d4aa94&hm=eff1f2e4962976d459fe8a62cd18abb60c1ba6ed6baa5be340b4f81d7ae1b897&=&format=webp&quality=lossless&width=96&height=26'> ibaratkan saja closetag ini sebagai titik koma(;) jika anda membuat kode di java / c++. ",
-        "date":"3-12-23",
-        "imageurl":"https://media.discordapp.net/attachments/1023598916857499680/1116403586616791140/photo-1640955785023-1854685dae05.png?ex=65e0b0dc&is=65ce3bdc&hm=07b1389000c4c59405f50c500d9d51711e70f58bb39eea40fbedadb465d1f1ee&=&format=webp&quality=lossless&width=582&height=437"
-    },
-    {
         "title":"How-to-Table",
         "desc":"How to make table in HTML",
         "content":"Halo teman - teman. Pada kesempatan kali ini kita akan membahas cara membuat tabel di HTML",
         "date":"3-12-23",
-        "imageurl":"https://media.discordapp.net/attachments/1023598916857499680/1116403586616791140/photo-1640955785023-1854685dae05.png?ex=65e0b0dc&is=65ce3bdc&hm=07b1389000c4c59405f50c500d9d51711e70f58bb39eea40fbedadb465d1f1ee&=&format=webp&quality=lossless&width=582&height=437"
-    },
-    {
-        "title":"Test3",
-        "desc":"gatau gw ini apa bang",
-        "content":"tesasdasdasdsadst",
-        "date":"3-12-23",
-        "imageurl":"https://media.discordapp.net/attachments/1023598916857499680/1116403586616791140/photo-1640955785023-1854685dae05.png?ex=65e0b0dc&is=65ce3bdc&hm=07b1389000c4c59405f50c500d9d51711e70f58bb39eea40fbedadb465d1f1ee&=&format=webp&quality=lossless&width=582&height=437"
+        "imageurl":"https://hooshmand.net/wp-content/uploads/2021/12/Microsoft-Excel-Table-in-google-sheets-cover.png"
     }
 ]
 }

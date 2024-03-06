@@ -4,6 +4,7 @@
     export let sub
     export let image
     export let content
+    export let date
   
 	onMount(()=>{fetch('/posts/sample-blog.json')
     	.then(response => response.json())
@@ -15,6 +16,7 @@
                         sub = post.desc;
                         image = post.imageurl;
                         content = post.content;
+			date = post.date;
                         
                     }
                 }
@@ -27,6 +29,7 @@
 <a href="/" class="btn">👈 Back to home</a>
 <img src={image} class="cover">
 <h1>{data.title}</h1>
+<p>Published at {date}</p>
 <h3>{sub}</h3>
 <p>{@html content}</p>
 

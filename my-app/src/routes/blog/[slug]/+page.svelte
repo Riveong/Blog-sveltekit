@@ -31,12 +31,15 @@
 <p>{@html content}</p>
 
 <style>
+
     .cover{
         width: 100%;
         max-height: 300px;
         object-fit: cover;
         
     }
+    p { letter-spacing: 1px; line-height: 2}
+
     .btn {
         background-color: #0c0a18;
         color: white;
